@@ -11,5 +11,7 @@ package examples;
  * @author Bojan
  */
 public class TestAddingFilesGit {
-    
+    public void testMethod(){
+        System.out.println("Testing changes colors!!");
+    }
 }
